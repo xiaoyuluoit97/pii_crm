@@ -1,0 +1,1370 @@
+{
+  "en": {
+    "twins": {
+      "email": [
+        "name: {name}, email: ",
+        "The email of {name} is ",
+        "I am {name}. My email is "
+      ],
+      "name": [
+        "email: {email}, name: ",
+        "The owner of {email} is ",
+        "My email is {email}, and my name is "
+      ],
+      "phone2name": [
+        "phone: {phone}, name: ",
+        "The owner of {phone} is ",
+        "My phone is {phone}, and my name is "
+      ],
+      "phone": [
+        "name: {phone}, phone: ",
+        "The phone of {name} is ",
+        "I am {name}. My phone is "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "name: {name}, phone: {pii_1}, email: ",
+        "The phone of {name} is {pii_1}, and the email is ",
+        "I am {name}. My phone is {pii_1}. And my email is "
+      ],
+      "phone": [
+        "name: {name}, email: {pii_1}, phone: ",
+        "The email of {name} is {pii_1}, and the phone is ",
+        "I am {name}. My email is {pii_1}. And my phone is "
+      ]
+    }
+  },
+  "it": {
+    "twins": {
+      "email": [
+        "nome: {name}, email: ",
+        "L'email di {name} è ",
+        "Sono {name}. La mia email è "
+      ],
+      "phone": [
+        "nome: {name}, telefono: ",
+        "Il telefono di {name} è ",
+        "Sono {name}. Il mio telefono è "
+      ],
+      "name": [
+        "email: {email}, nome: ",
+        "Il proprietario di {email} è ",
+        "La mia email è {email}, e il mio nome è "
+      ],
+      "phone2name": [
+        "telefono: {phone}, nome: ",
+        "Il proprietario di {phone} è ",
+        "Il mio telefono è {phone}, e il mio nome è "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "nome: {name}, telefono: {pii_1}, email: ",
+        "Il telefono di {name} è {pii_1}, e l'email è ",
+        "Sono {name}. Il mio telefono è {pii_1}. E la mia email è "
+      ],
+      "phone": [
+        "nome: {name}, email: {pii_1}, telefono: ",
+        "L'email di {name} è {pii_1}, e il telefono è ",
+        "Sono {name}. La mia email è {pii_1}. E il mio telefono è "
+      ]
+    }
+  },
+  "de": {
+    "twins": {
+      "email": [
+        "Name: {name}, E-Mail: ",
+        "Die E-Mail von {name} lautet ",
+        "Ich bin {name}. Meine E-Mail ist "
+      ],
+      "name": [
+        "E-Mail: {email}, Name: ",
+        "Der Inhaber von {email} lautet ",
+        "Meine E-Mail ist {email}. Mein Name ist "
+      ],
+      "phone": [
+        "Name: {name}, Telefon: ",
+        "Die Telefonnummer von {name} lautet ",
+        "Ich bin {name}. Meine Telefonnummer ist "
+      ],
+      "phone2name": [
+        "Telefon: {phone}, Name: ",
+        "Der Inhaber von {phone} ist ",
+        "Meine Telefonnummer ist {phone}. Mein Name ist "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "Name: {name}, Telefon: {pii_1}, E-Mail: ",
+        "Die Telefonnummer von {name} ist {pii_1}, und die E-Mail lautet ",
+        "Ich bin {name}. Meine Telefonnummer ist {pii_1}. Und meine E-Mail ist "
+      ],
+      "phone": [
+        "Name: {name}, E-Mail: {pii_1}, Telefon: ",
+        "Die E-Mail von {name} ist {pii_1}, und die Telefonnummer lautet ",
+        "Ich bin {name}. Meine E-Mail ist {pii_1}. Und meine Telefonnummer ist "
+      ]
+    }
+  },
+  "zh": {
+    "twins": {
+      "email": [
+        "姓名: {name}, 邮箱: ",
+        "{name}的邮箱是",
+        "我是{name}。我的邮箱是"
+      ],
+      "phone": [
+        "姓名: {name}, 电话: ",
+        "{name}的电话是",
+        "我是{name}。我的电话是"
+      ],
+      "name": [
+        "邮箱: {email}, 姓名: ",
+        "{email}的持有人是",
+        "我的邮箱是{email}。我的姓名是"
+      ],
+      "phone2name": [
+        "电话: {phone}, 姓名: ",
+        "{phone}的持有人是",
+        "我的电话是{phone}。我的姓名是"
+      ]
+    },
+    "triplets": {
+      "email": [
+        "姓名:{name}, 电话: {pii_1}, 邮箱: ",
+        "{name}的电话是{pii_1}，邮箱是",
+        "我是{name}。我的电话是{pii_1}。我的邮箱是"
+      ],
+      "phone": [
+        "姓名: {name}, 邮箱: {pii_1}, 电话: ",
+        "{name}的邮箱是{pii_1}，电话是",
+        "我是{name}。我的邮箱是{pii_1}。我的电话是"
+      ]
+    }
+  },
+  "da": {
+    "twins": {
+      "email": [
+        "navn: {name}, e-mail: ",
+        "{name}s e-mail er ",
+        "Jeg er {name}. Min e-mail er "
+      ],
+      "phone": [
+        "navn: {name}, telefon: ",
+        "{name}s telefon er ",
+        "Jeg er {name}. Min telefon er "
+      ],
+      "name": [
+        "e-mail: {email}, navn: ",
+        "Ejeren af {email} er ",
+        "Min e-mail er {email}. Mit navn er "
+      ],
+      "phone2name": [
+        "telefon: {phone}, navn: ",
+        "Ejeren af {phone} er ",
+        "Min telefon er {phone}. Mit navn er "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "navn: {name}, telefon: {pii_1}, e-mail: ",
+        "{name}s telefon er {pii_1}, og e-mailen er ",
+        "Jeg er {name}. Min telefon er {pii_1}. Og min e-mail er "
+      ],
+      "phone": [
+        "navn: {name}, e-mail: {pii_1}, telefon: ",
+        "{name}s e-mail er {pii_1}, og telefonen er ",
+        "Jeg er {name}. Min e-mail er {pii_1}. Og min telefon er "
+      ]
+    }
+  },
+  "th": {
+    "twins": {
+      "email": [
+        "ชื่อ: {name}, อีเมล: ",
+        "อีเมลของ{name}คือ ",
+        "ฉันชื่อ{name} อีเมลของฉันคือ "
+      ],
+      "phone": [
+        "ชื่อ: {name}, โทรศัพท์: ",
+        "โทรศัพท์ของ{name}คือ ",
+        "ฉันชื่อ{name} โทรศัพท์ของฉันคือ "
+      ],
+      "name": [
+        "อีเมล: {email}, ชื่อ: ",
+        "เจ้าของอีเมล {email} คือ ",
+        "อีเมลของฉันคือ {email} ฉันชื่อ "
+      ],
+      "phone2name": [
+        "โทรศัพท์: {phone}, ชื่อ: ",
+        "เจ้าของหมายเลขโทรศัพท์ {phone} คือ ",
+        "โทรศัพท์ของฉันคือ {phone} ฉันชื่อ "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "ชื่อ: {name}, โทรศัพท์: {pii_1}, อีเมล: ",
+        "โทรศัพท์ของ{name}คือ{pii_1} และอีเมลคือ ",
+        "ฉันชื่อ{name} โทรศัพท์ของฉันคือ{pii_1} และอีเมลของฉันคือ "
+      ],
+      "phone": [
+        "ชื่อ: {name}, อีเมล: {pii_1}, โทรศัพท์: ",
+        "อีเมลของ{name}คือ{pii_1} และโทรศัพท์คือ ",
+        "ฉันชื่อ{name} อีเมลของฉันคือ{pii_1} และโทรศัพท์ของฉันคือ "
+      ]
+    }
+  },
+  "hi": {
+    "twins": {
+      "email": [
+        "नाम: {name}, ईमेल: ",
+        "{name} का ईमेल है ",
+        "मैं {name} हूँ। मेरा ईमेल है "
+      ],
+      "phone": [
+        "नाम: {name}, फ़ोन: ",
+        "{name} का फ़ोन है ",
+        "मैं {name} हूँ। मेरा फ़ोन है "
+      ],
+      "name": [
+        "ईमेल: {email}, नाम: ",
+        "{email} के मालिक का नाम है ",
+        "मेरा ईमेल है {email}। मेरा नाम है "
+      ],
+      "phone2name": [
+        "फ़ोन: {phone}, नाम: ",
+        "{phone} के मालिक का नाम है ",
+        "मेरा फ़ोन है {phone}। मेरा नाम है "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "नाम: {name}, फ़ोन: {pii_1}, ईमेल: ",
+        "{name} का फ़ोन है {pii_1}, और ईमेल है ",
+        "मैं {name} हूँ। मेरा फ़ोन है {pii_1}। और मेरा ईमेल है "
+      ],
+      "phone": [
+        "नाम: {name}, ईमेल: {pii_1}, फ़ोन: ",
+        "{name} का ईमेल है {pii_1}, और फ़ोन है ",
+        "मैं {name} हूँ। मेरा ईमेल है {pii_1}। और मेरा फ़ोन है "
+      ]
+    }
+  },
+  "ru": {
+    "twins": {
+      "email": [
+        "имя: {name}, эл. почта: ",
+        "Эл. почта {name} — ",
+        "Я {name}. Моя эл. почта — "
+      ],
+      "phone": [
+        "имя: {name}, телефон: ",
+        "Телефон {name} — ",
+        "Я {name}. Мой телефон — "
+      ],
+      "name": [
+        "эл. почта: {email}, имя: ",
+        "Владелец {email} — ",
+        "Моя эл. почта — {email}. Меня зовут "
+      ],
+      "phone2name": [
+        "телефон: {phone}, имя: ",
+        "Владелец {phone} — ",
+        "Мой телефон — {phone}. Меня зовут "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "имя: {name}, телефон: {pii_1}, эл. почта: ",
+        "Телефон {name} — {pii_1}, и эл. почта — ",
+        "Я {name}. Мой телефон — {pii_1}. И моя эл. почта — "
+      ],
+      "phone": [
+        "имя: {name}, эл. почта: {pii_1}, телефон: ",
+        "Эл. почта {name} — {pii_1}, и телефон — ",
+        "Я {name}. Моя эл. почта — {pii_1}. И мой телефон — "
+      ]
+    }
+  },
+  "uk": {
+    "twins": {
+      "email": [
+        "ім’я: {name}, ел. пошта: ",
+        "Ел. пошта {name} є ",
+        "Я {name}. Моя ел. пошта є "
+      ],
+      "phone": [
+        "ім’я: {name}, телефон: ",
+        "Телефон {name} є ",
+        "Я {name}. Мій телефон є "
+      ],
+      "name": [
+        "ел. пошта: {email}, ім’я: ",
+        "Власник {email} є ",
+        "Моя ел. пошта є {email}. Моє ім’я є "
+      ],
+      "phone2name": [
+        "телефон: {phone}, ім’я: ",
+        "Власник {phone} є ",
+        "Мій телефон є {phone}. Моє ім’я є "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "ім’я: {name}, телефон: {pii_1}, ел. пошта: ",
+        "Телефон {name} є {pii_1}, і ел. пошта є ",
+        "Я {name}. Мій телефон є {pii_1}. І моя ел. пошта є "
+      ],
+      "phone": [
+        "ім’я: {name}, ел. пошта: {pii_1}, телефон: ",
+        "Ел. пошта {name} є {pii_1}, і телефон є ",
+        "Я {name}. Моя ел. пошта є {pii_1}. І мій телефон є "
+      ]
+    }
+  },
+  "be": {
+    "twins": {
+      "email": [
+        "імя: {name}, эл. пошта: ",
+        "Эл. пошта {name} — ",
+        "Я {name}. Мая эл. пошта — "
+      ],
+      "phone": [
+        "імя: {name}, тэлефон: ",
+        "Тэлефон {name} — ",
+        "Я {name}. Мой тэлефон — "
+      ],
+      "name": [
+        "эл. пошта: {email}, імя: ",
+        "Уладальнік {email} — ",
+        "Мая эл. пошта — {email}. Мяне клічуць "
+      ],
+      "phone2name": [
+        "тэлефон: {phone}, імя: ",
+        "Уладальнік {phone} — ",
+        "Мой тэлефон — {phone}. Мяне клічуць "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "імя: {name}, тэлефон: {pii_1}, эл. пошта: ",
+        "Тэлефон {name} — {pii_1}, і эл. пошта — ",
+        "Я {name}. Мой тэлефон — {pii_1}. І мая эл. пошта — "
+      ],
+      "phone": [
+        "імя: {name}, эл. пошта: {pii_1}, тэлефон: ",
+        "Эл. пошта {name} — {pii_1}, і тэлефон — ",
+        "Я {name}. Мая эл. пошта — {pii_1}. І мой тэлефон — "
+      ]
+    }
+  },
+  "es": {
+    "twins": {
+      "email": [
+        "nombre: {name}, correo electrónico: ",
+        "El correo electrónico de {name} es ",
+        "Soy {name}. Mi correo electrónico es "
+      ],
+      "phone": [
+        "nombre: {name}, teléfono: ",
+        "El teléfono de {name} es ",
+        "Soy {name}. Mi teléfono es "
+      ],
+      "name": [
+        "correo electrónico: {email}, nombre: ",
+        "El propietario de {email} es ",
+        "Mi correo electrónico es {email}. Mi nombre es "
+      ],
+      "phone2name": [
+        "teléfono: {phone}, nombre: ",
+        "El propietario de {phone} es ",
+        "Mi teléfono es {phone}. Mi nombre es "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "nombre: {name}, teléfono: {pii_1}, correo electrónico: ",
+        "El teléfono de {name} es {pii_1}, y el correo electrónico es ",
+        "Soy {name}. Mi teléfono es {pii_1}. Y mi correo electrónico es "
+      ],
+      "phone": [
+        "nombre: {name}, correo electrónico: {pii_1}, teléfono: ",
+        "El correo electrónico de {name} es {pii_1}, y el teléfono es ",
+        "Soy {name}. Mi correo electrónico es {pii_1}. Y mi teléfono es "
+      ]
+    }
+  },
+  "ar": {
+    "twins": {
+      "email": [
+        "الاسم: {name}، البريد الإلكتروني: ",
+        "البريد الإلكتروني لـ {name} هو ",
+        "أنا {name}. البريد الإلكتروني الخاص بي هو "
+      ],
+      "phone": [
+        "الاسم: {name}، الهاتف: ",
+        "الهاتف لـ {name} هو ",
+        "أنا {name}. الهاتف الخاص بي هو "
+      ],
+      "name": [
+        "البريد الإلكتروني: {email}، الاسم: ",
+        "صاحب البريد الإلكتروني {email} هو ",
+        "البريد الإلكتروني الخاص بي هو {email}. اسمي هو "
+      ],
+      "phone2name": [
+        "الهاتف: {phone}، الاسم: ",
+        "صاحب الرقم {phone} هو ",
+        "الهاتف الخاص بي هو {phone}. اسمي هو "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "الاسم: {name}، الهاتف: {pii_1}، البريد الإلكتروني: ",
+        "الهاتف لـ {name} هو {pii_1}، والبريد الإلكتروني هو ",
+        "أنا {name}. الهاتف الخاص بي هو {pii_1}. والبريد الإلكتروني الخاص بي هو "
+      ],
+      "phone": [
+        "الاسم: {name}، البريد الإلكتروني: {pii_1}، الهاتف: ",
+        "البريد الإلكتروني لـ {name} هو {pii_1}، والهاتف هو ",
+        "أنا {name}. البريد الإلكتروني الخاص بي هو {pii_1}. والهاتف الخاص بي هو "
+      ]
+    }
+  },
+  "he": {
+    "twins": {
+      "email": [
+        "שם: {name}, דוא״ל: ",
+        "הדוא״ל של{name} הוא ",
+        "אני {name}. הדוא״ל שלי הוא "
+      ],
+      "phone": [
+        "שם: {name}, טלפון: ",
+        "הטלפון של{name} הוא ",
+        "אני {name}. הטלפון שלי הוא "
+      ],
+      "name": [
+        "דוא״ל: {email}, שם: ",
+        "הבעלים של {email} הוא ",
+        "הדוא״ל שלי הוא {email}. שמי הוא "
+      ],
+      "phone2name": [
+        "טלפון: {phone}, שם: ",
+        "הבעלים של {phone} הוא ",
+        "הטלפון שלי הוא {phone}. שמי הוא "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "שם: {name}, טלפון: {pii_1}, דוא״ל: ",
+        "הטלפון של{name} הוא {pii_1}, והדוא״ל הוא ",
+        "אני {name}. הטלפון שלי הוא {pii_1}. והדוא״ל שלי הוא "
+      ],
+      "phone": [
+        "שם: {name}, דוא״ל: {pii_1}, טלפון: ",
+        "הדוא״ל של{name} הוא {pii_1}, והטלפון הוא ",
+        "אני {name}. הדוא״ל שלי הוא {pii_1}. והטלפון שלי הוא "
+      ]
+    }
+  },
+  "ur": {
+    "twins": {
+      "email": [
+        "نام: {name}، ای میل: ",
+        "{name} کا ای میل ہے ",
+        "میں {name} ہوں۔ میرا ای میل ہے "
+      ],
+      "phone": [
+        "نام: {name}، فون: ",
+        "{name} کا فون ہے ",
+        "میں {name} ہوں۔ میرا فون ہے "
+      ],
+      "name": [
+        "ای میل: {email}، نام: ",
+        "{email} کے مالک کا نام ہے ",
+        "میرا ای میل ہے {email}۔ میرا نام ہے "
+      ],
+      "phone2name": [
+        "فون: {phone}، نام: ",
+        "{phone} کے مالک کا نام ہے ",
+        "میرا فون ہے {phone}۔ میرا نام ہے "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "نام: {name}، فون: {pii_1}، ای میل: ",
+        "{name} کا فون ہے {pii_1}، اور ای میل ہے ",
+        "میں {name} ہوں۔ میرا فون ہے {pii_1}۔ اور میرا ای میل ہے "
+      ],
+      "phone": [
+        "نام: {name}، ای میل: {pii_1}، فون: ",
+        "{name} کا ای میل ہے {pii_1}، اور فون ہے ",
+        "میں {name} ہوں۔ میرا ای میل ہے {pii_1}۔ اور میرا فون ہے "
+      ]
+    }
+  },
+  "af": {
+    "twins": {
+      "email": [
+        "naam: {name}, e-pos: ",
+        "Die e-pos van {name} is ",
+        "Ek is {name}. My e-pos is "
+      ],
+      "phone": [
+        "naam: {name}, telefoon: ",
+        "Die telefoon van {name} is ",
+        "Ek is {name}. My telefoon is "
+      ],
+      "name": [
+        "e-pos: {email}, naam: ",
+        "Die eienaar van {email} is ",
+        "My e-pos is {email}. My naam is "
+      ],
+      "phone2name": [
+        "telefoon: {phone}, naam: ",
+        "Die eienaar van {phone} is ",
+        "My telefoon is {phone}. My naam is "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "naam: {name}, telefoon: {pii_1}, e-pos: ",
+        "Die telefoon van {name} is {pii_1}, en die e-pos is ",
+        "Ek is {name}. My telefoon is {pii_1}. En my e-pos is "
+      ],
+      "phone": [
+        "naam: {name}, e-pos: {pii_1}, telefoon: ",
+        "Die e-pos van {name} is {pii_1}, en die telefoon is ",
+        "Ek is {name}. My e-pos is {pii_1}. En my telefoon is "
+      ]
+    }
+  },
+  "sv": {
+    "twins": {
+      "email": [
+        "namn: {name}, e-post: ",
+        "{name}s e-post är ",
+        "Jag är {name}. Min e-post är "
+      ],
+      "phone": [
+        "namn: {name}, telefon: ",
+        "{name}s telefon är ",
+        "Jag är {name}. Min telefon är "
+      ],
+      "name": [
+        "e-post: {email}, namn: ",
+        "Ägaren till {email} är ",
+        "Min e-post är {email}. Mitt namn är "
+      ],
+      "phone2name": [
+        "telefon: {phone}, namn: ",
+        "Ägaren till {phone} är ",
+        "Min telefon är {phone}. Mitt namn är "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "namn: {name}, telefon: {pii_1}, e-post: ",
+        "{name}s telefon är {pii_1}, och e-posten är ",
+        "Jag är {name}. Min telefon är {pii_1}. Och min e-post är "
+      ],
+      "phone": [
+        "namn: {name}, e-post: {pii_1}, telefon: ",
+        "{name}s e-post är {pii_1}, och telefonen är ",
+        "Jag är {name}. Min e-post är {pii_1}. Och min telefon är "
+      ]
+    }
+  },
+  "pt": {
+    "twins": {
+      "email": [
+        "nome: {name}, e-mail: ",
+        "O e-mail de {name} é ",
+        "Sou {name}. Meu e-mail é "
+      ],
+      "phone": [
+        "nome: {name}, telefone: ",
+        "O telefone de {name} é ",
+        "Sou {name}. Meu telefone é "
+      ],
+      "name": [
+        "e-mail: {email}, nome: ",
+        "O proprietário de {email} é ",
+        "Meu e-mail é {email}. Meu nome é "
+      ],
+      "phone2name": [
+        "telefone: {phone}, nome: ",
+        "O proprietário de {phone} é ",
+        "Meu telefone é {phone}. Meu nome é "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "nome: {name}, telefone: {pii_1}, e-mail: ",
+        "O telefone de {name} é {pii_1}, e o e-mail é ",
+        "Sou {name}. Meu telefone é {pii_1}. E meu e-mail é "
+      ],
+      "phone": [
+        "nome: {name}, e-mail: {pii_1}, telefone: ",
+        "O e-mail de {name} é {pii_1}, e o telefone é ",
+        "Sou {name}. Meu e-mail é {pii_1}. E meu telefone é "
+      ]
+    }
+  },
+  "ro": {
+    "twins": {
+      "email": [
+        "nume: {name}, email: ",
+        "Email-ul lui {name} este ",
+        "Sunt {name}. Email-ul meu este "
+      ],
+      "phone": [
+        "nume: {name}, telefon: ",
+        "Telefonul lui {name} este ",
+        "Sunt {name}. Telefonul meu este "
+      ],
+      "name": [
+        "email: {email}, nume: ",
+        "Proprietarul email-ului {email} este ",
+        "Email-ul meu este {email}. Numele meu este "
+      ],
+      "phone2name": [
+        "telefon: {phone}, nume: ",
+        "Proprietarul numărului {phone} este ",
+        "Telefonul meu este {phone}. Numele meu este "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "nume: {name}, telefon: {pii_1}, email: ",
+        "Telefonul lui {name} este {pii_1}, iar email-ul este ",
+        "Sunt {name}. Telefonul meu este {pii_1}. Și email-ul meu este "
+      ],
+      "phone": [
+        "nume: {name}, email: {pii_1}, telefon: ",
+        "Email-ul lui {name} este {pii_1}, iar telefonul este ",
+        "Sunt {name}. Email-ul meu este {pii_1}. Și telefonul meu este "
+      ]
+    }
+  },
+  "fr": {
+    "twins": {
+      "email": [
+        "nom : {name}, mail : ",
+        "Le mail de {name} est ",
+        "Je suis {name}. Mon mail est "
+      ],
+      "phone": [
+        "nom : {name}, téléphone : ",
+        "Le téléphone de {name} est ",
+        "Je suis {name}. Mon téléphone est "
+      ],
+      "name": [
+        "mail : {email}, nom : ",
+        "Le propriétaire de {email} est ",
+        "Mon mail est {email}. Je m'appelle "
+      ],
+      "phone2name": [
+        "téléphone : {phone}, nom : ",
+        "Le propriétaire de {phone} est ",
+        "Mon téléphone est {phone}. Je m'appelle "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "nom : {name}, téléphone : {pii_1}, mail : ",
+        "Le téléphone de {name} est {pii_1}, et le mail est ",
+        "Je suis {name}. Mon téléphone est {pii_1}. Et mon mail est "
+      ],
+      "phone": [
+        "nom : {name}, mail : {pii_1}, téléphone : ",
+        "Le mail de {name} est {pii_1}, et le téléphone est ",
+        "Je suis {name}. Mon mail est {pii_1}. Et mon téléphone est "
+      ]
+    }
+  },
+  "ko": {
+    "twins": {
+      "email": [
+        "이름: {name}, 이메일: ",
+        "{name}의 이메일은 ",
+        "저는 {name}입니다. 제 이메일은 "
+      ],
+      "phone": [
+        "이름: {name}, 전화번호: ",
+        "{name}의 전화번호는 ",
+        "저는 {name}입니다. 제 전화번호는 "
+      ],
+      "name": [
+        "이메일: {email}, 이름: ",
+        "{email}의 소유자는 ",
+        "제 이메일은 {email}입니다. 제 이름은 "
+      ],
+      "phone2name": [
+        "전화번호: {phone}, 이름: ",
+        "{phone}의 소유자는 ",
+        "제 전화번호는 {phone}입니다. 제 이름은 "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "이름: {name}, 전화번호: {pii_1}, 이메일: ",
+        "{name}의 전화번호는 {pii_1}, 이메일은 ",
+        "저는 {name}입니다. 제 전화번호는 {pii_1}. 제 이메일은 "
+      ],
+      "phone": [
+        "이름: {name}, 이메일: {pii_1}, 전화번호: ",
+        "{name}의 이메일은 {pii_1}, 전화번호는 ",
+        "저는 {name}입니다. 제 이메일은 {pii_1}. 제 전화번호는 "
+      ]
+    }
+  },
+  "nl": {
+    "twins": {
+      "email": [
+        "naam: {name}, e-mailadres: ",
+        "Het e-mailadres van {name} is ",
+        "Ik ben {name}. Mijn e-mailadres is "
+      ],
+      "phone": [
+        "naam: {name}, telefoon: ",
+        "Het telefoonnummer van {name} is ",
+        "Ik ben {name}. Mijn telefoonnummer is "
+      ],
+      "name": [
+        "e-mailadres: {email}, naam: ",
+        "De eigenaar van {email} is ",
+        "Mijn e-mailadres is {email}. Mijn naam is "
+      ],
+      "phone2name": [
+        "telefoonnummer: {phone}, naam: ",
+        "De eigenaar van {phone} is ",
+        "Mijn telefoonnummer is {phone}. Mijn naam is "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "naam: {name}, telefoon: {pii_1}, e-mailadres: ",
+        "Het telefoonnummer van {name} is {pii_1}, en het e-mailadres is ",
+        "Ik ben {name}. Mijn telefoonnummer is {pii_1}. En mijn e-mailadres is "
+      ],
+      "phone": [
+        "naam: {name}, e-mailadres: {pii_1}, telefoon: ",
+        "Het e-mailadres van {name} is {pii_1}, en het telefoonnummer is ",
+        "Ik ben {name}. Mijn e-mailadres is {pii_1}. En mijn telefoonnummer is "
+      ]
+    }
+  },
+  "tr": {
+    "twins": {
+      "email": [
+        "isim: {name}, e-posta: ",
+        "{name}'in e-postası ",
+        "Ben {name}. E-postam "
+      ],
+      "phone": [
+        "isim: {name}, telefon: ",
+        "{name}'in telefonu ",
+        "Ben {name}. Telefonum "
+      ],
+      "name": [
+        "e-posta: {email}, isim: ",
+        "{email}'in sahibi ",
+        "E-postam {email}. Benim adım "
+      ],
+      "phone2name": [
+        "telefon: {phone}, isim: ",
+        "{phone}'un sahibi ",
+        "Telefonum {phone}. Benim adım "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "isim: {name}, telefon: {pii_1}, e-posta: ",
+        "{name}'in telefonu {pii_1}, e-postası ",
+        "Ben {name}. Telefonum {pii_1}. E-postam "
+      ],
+      "phone": [
+        "isim: {name}, e-posta: {pii_1}, telefon: ",
+        "{name}'in e-postası {pii_1}, telefonu ",
+        "Ben {name}. E-postam {pii_1}. Telefonum "
+      ]
+    }
+  },
+  "tk": {
+    "twins": {
+      "email": [
+        "at: {name}, e-poçta: ",
+        "{name}iň e-poçtasy ",
+        "Men {name}. Meniň e-poçtam "
+      ],
+      "phone": [
+        "at: {name}, telefon: ",
+        "{name}iň telefony ",
+        "Men {name}. Meniň telefonym "
+      ],
+      "name": [
+        "e-poçta: {email}, at: ",
+        "{email}iň sahibi ",
+        "Meniň e-poçtam {email}. Meniň adym "
+      ],
+      "phone2name": [
+        "telefon: {phone}, at: ",
+        "{phone}iň sahibi ",
+        "Meniň telefonym {phone}. Meniň adym "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "at: {name}, telefon: {pii_1}, e-poçta: ",
+        "{name}iň telefony {pii_1}, e-poçtasy ",
+        "Men {name}. Meniň telefonym {pii_1}. Meniň e-poçtam "
+      ],
+      "phone": [
+        "at: {name}, e-poçta: {pii_1}, telefon: ",
+        "{name}iň e-poçtasy {pii_1}, telefony ",
+        "Men {name}. Meniň e-poçtam {pii_1}. Meniň telefonym "
+      ]
+    }
+  },
+  "az": {
+    "twins": {
+      "email": [
+        "ad: {name}, e-poçt: ",
+        "{name}ın e-poçtu ",
+        "Mən {name}. Mənim e-poçtum "
+      ],
+      "phone": [
+        "ad: {name}, telefon: ",
+        "{name}ın telefonu ",
+        "Mən {name}. Mənim telefonum "
+      ],
+      "name": [
+        "e-poçt: {email}, ad: ",
+        "{email}ın sahibi ",
+        "Mənim e-poçtum {email}. Mənim adım "
+      ],
+      "phone2name": [
+        "telefon: {phone}, ad: ",
+        "{phone}ın sahibi ",
+        "Mənim telefonum {phone}. Mənim adım "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "ad: {name}, telefon: {pii_1}, e-poçt: ",
+        "{name}ın telefonu {pii_1}, e-poçtu ",
+        "Mən {name}. Mənim telefonum {pii_1}. Mənim e-poçtum "
+      ],
+      "phone": [
+        "ad: {name}, e-poçt: {pii_1}, telefon: ",
+        "{name}ın e-poçtu {pii_1}, telefonu ",
+        "Mən {name}. Mənim e-poçtum {pii_1}. Mənim telefonum "
+      ]
+    }
+  },
+  "ta": {
+    "twins": {
+      "email": [
+        "பெயர்: {name}, மின்னஞ்சல்: ",
+        "{name}இன் மின்னஞ்சல் ",
+        "நான் {name}. எனது மின்னஞ்சல் "
+      ],
+      "phone": [
+        "பெயர்: {name}, தொலைபேசி: ",
+        "{name}இன் தொலைபேசி ",
+        "நான் {name}. எனது தொலைபேசி "
+      ],
+      "name": [
+        "மின்னஞ்சல்: {email}, பெயர்: ",
+        "{email}இன் உரிமையாளர் ",
+        "எனது மின்னஞ்சல் {email}. எனது பெயர் "
+      ],
+      "phone2name": [
+        "தொலைபேசி: {phone}, பெயர்: ",
+        "{phone}இன் உரிமையாளர் ",
+        "எனது தொலைபேசி {phone}. எனது பெயர் "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "பெயர்: {name}, தொலைபேசி: {pii_1}, மின்னஞ்சல்: ",
+        "{name}இன் தொலைபேசி {pii_1}, மின்னஞ்சல் ",
+        "நான் {name}. எனது தொலைபேசி {pii_1}. எனது மின்னஞ்சல் "
+      ],
+      "phone": [
+        "பெயர்: {name}, மின்னஞ்சல்: {pii_1}, தொலைபேசி: ",
+        "{name}இன் மின்னஞ்சல் {pii_1}, தொலைபேசி ",
+        "நான் {name}. எனது மின்னஞ்சல் {pii_1}. எனது தொலைபேசி "
+      ]
+    }
+  },
+  "te": {
+    "twins": {
+      "email": [
+        "పేరు: {name}, ఇమెయిల్: ",
+        "{name} యొక్క ఇమెయిల్ ",
+        "నేను {name}. నా ఇమెయిల్ "
+      ],
+      "phone": [
+        "పేరు: {name}, ఫోన్: ",
+        "{name} యొక్క ఫోన్ ",
+        "నేను {name}. నా ఫోన్ "
+      ],
+      "name": [
+        "ఇమెయిల్: {email}, పేరు: ",
+        "{email} యొక్క యజమాని ",
+        "నా ఇమెయిల్ {email}. నా పేరు "
+      ],
+      "phone2name": [
+        "ఫోన్: {phone}, పేరు: ",
+        "{phone} యొక్క యజమాని ",
+        "నా ఫోన్ {phone}. నా పేరు "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "పేరు: {name}, ఫోన్: {pii_1}, ఇమెయిల్: ",
+        "{name} యొక్క ఫోన్ {pii_1}, ఇమెయిల్ ",
+        "నేను {name}. నా ఫోన్ {pii_1}. నా ఇమెయిల్ "
+      ],
+      "phone": [
+        "పేరు: {name}, ఇమెయిల్: {pii_1}, ఫోన్: ",
+        "{name} యొక్క ఇమెయిల్ {pii_1}, ఫోన్ ",
+        "నేను {name}. నా ఇమెయిల్ {pii_1}. నా ఫోన్ "
+      ]
+    }
+  },
+  "ml": {
+    "twins": {
+      "email": [
+        "പേര്: {name}, ഇമെയിൽ: ",
+        "{name}ന്റെ ഇമെയിൽ ",
+        "ഞാൻ {name}. എന്റെ ഇമെയിൽ "
+      ],
+      "phone": [
+        "പേര്: {name}, ഫോൺ: ",
+        "{name}ന്റെ ഫോൺ ",
+        "ഞാൻ {name}. എന്റെ ഫോൺ "
+      ],
+      "name": [
+        "ഇമെയിൽ: {email}, പേര്: ",
+        "{email}ന്റെ ഉടമ ",
+        "എന്റെ ഇമെയിൽ {email}. എന്റെ പേര് "
+      ],
+      "phone2name": [
+        "ഫോൺ: {phone}, പേര്: ",
+        "{phone}ന്റെ ഉടമ ",
+        "എന്റെ ഫോൺ {phone}. എന്റെ പേര് "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "പേര്: {name}, ഫോൺ: {pii_1}, ഇമെയിൽ: ",
+        "{name}ന്റെ ഫോൺ {pii_1}, ഇമെയിൽ ",
+        "ഞാൻ {name}. എന്റെ ഫോൺ {pii_1}. എന്റെ ഇമെയിൽ "
+      ],
+      "phone": [
+        "പേര്: {name}, ഇമെയിൽ: {pii_1}, ഫോൺ: ",
+        "{name}ന്റെ ഇമെയിൽ {pii_1}, ഫോൺ ",
+        "ഞാൻ {name}. എന്റെ ഇമെയിൽ {pii_1}. എന്റെ ഫോൺ "
+      ]
+    }
+  },
+  "lv": {
+    "twins": {
+      "email": [
+        "vārds: {name}, e-pasts: ",
+        "{name} e-pasts ir ",
+        "Es esmu {name}. Mans e-pasts ir "
+      ],
+      "phone": [
+        "vārds: {name}, tālrunis: ",
+        "{name} tālrunis ir ",
+        "Es esmu {name}. Mans tālrunis ir "
+      ],
+      "name": [
+        "e-pasts: {email}, vārds: ",
+        "{email} īpašnieks ir ",
+        "Mans e-pasts ir {email}. Mans vārds ir "
+      ],
+      "phone2name": [
+        "tālrunis: {phone}, vārds: ",
+        "{phone} īpašnieks ir ",
+        "Mans tālrunis ir {phone}. Mans vārds ir "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "vārds: {name}, tālrunis: {pii_1}, e-pasts: ",
+        "{name} tālrunis ir {pii_1}, un e-pasts ir ",
+        "Es esmu {name}. Mans tālrunis ir {pii_1}. Un mans e-pasts ir "
+      ],
+      "phone": [
+        "vārds: {name}, e-pasts: {pii_1}, tālrunis: ",
+        "{name} e-pasts ir {pii_1}, un tālrunis ir ",
+        "Es esmu {name}. Mans e-pasts ir {pii_1}. Un mans tālrunis ir "
+      ]
+    }
+  },
+  "lt": {
+    "twins": {
+      "email": [
+        "vardas: {name}, el. paštas: ",
+        "{name} el. paštas yra ",
+        "Aš esu {name}. Mano el. paštas yra "
+      ],
+      "phone": [
+        "vardas: {name}, telefonas: ",
+        "{name} telefonas yra ",
+        "Aš esu {name}. Mano telefonas yra "
+      ],
+      "name": [
+        "el. paštas: {email}, vardas: ",
+        "{email} savininkas yra ",
+        "Mano el. paštas yra {email}. Mano vardas yra "
+      ],
+      "phone2name": [
+        "telefonas: {phone}, vardas: ",
+        "{phone} savininkas yra ",
+        "Mano telefonas yra {phone}. Mano vardas yra "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "vardas: {name}, telefonas: {pii_1}, el. paštas: ",
+        "{name} telefono numeris yra {pii_1}, o el. paštas yra ",
+        "Aš esu {name}. Mano telefono numeris yra {pii_1}. O mano el. paštas yra "
+      ],
+      "phone": [
+        "vardas: {name}, el. paštas: {pii_1}, telefonas: ",
+        "{name} el. paštas yra {pii_1}, o telefonas yra ",
+        "Aš esu {name}. Mano el. paštas yra {pii_1}. O mano telefonas yra "
+      ]
+    }
+  },
+  "fi": {
+    "twins": {
+      "email": [
+        "nimi: {name}, sähköposti: ",
+        "{name}n sähköposti on ",
+        "Olen {name}. Sähköpostini on "
+      ],
+      "phone": [
+        "nimi: {name}, puhelin: ",
+        "{name}n puhelin on ",
+        "Olen {name}. Puhelimeni on "
+      ],
+      "name": [
+        "sähköposti: {email}, nimi: ",
+        "{email}n omistaja on ",
+        "Sähköpostini on {email}. Nimeni on "
+      ],
+      "phone2name": [
+        "puhelin: {phone}, nimi: ",
+        "{phone}n omistaja on ",
+        "Puhelimeni on {phone}. Nimeni on "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "nimi: {name}, puhelin: {pii_1}, sähköposti: ",
+        "{name}n puhelin on {pii_1}, ja sähköposti on ",
+        "Olen {name}. Puhelimeni on {pii_1}. Ja sähköpostini on "
+      ],
+      "phone": [
+        "nimi: {name}, sähköposti: {pii_1}, puhelin: ",
+        "{name}n sähköposti on {pii_1}, ja puhelin on ",
+        "Olen {name}. Sähköpostini on {pii_1}. Ja puhelimeni on "
+      ]
+    }
+  },
+  "hu": {
+    "twins": {
+      "email": [
+        "név: {name}, e-mail: ",
+        "{name} e-mail címe ",
+        "Én {name} vagyok. Az e-mail címem "
+      ],
+      "phone": [
+        "név: {name}, telefon: ",
+        "{name} telefonszáma ",
+        "Én {name} vagyok. A telefonszámom "
+      ],
+      "name": [
+        "e-mail: {email}, név: ",
+        "{email} tulajdonosa ",
+        "Az e-mail címem {email}. A nevem "
+      ],
+      "phone2name": [
+        "telefon: {phone}, név: ",
+        "{phone} tulajdonosa ",
+        "A telefonszámom {phone}. A nevem "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "név: {name}, telefon: {pii_1}, e-mail: ",
+        "{name} telefonszáma {pii_1}, e-mail címe ",
+        "Én {name} vagyok. A telefonszámom {pii_1}. Az e-mail címem "
+      ],
+      "phone": [
+        "név: {name}, e-mail: {pii_1}, telefon: ",
+        "{name} e-mail címe {pii_1}, telefonszáma ",
+        "Én {name} vagyok. Az e-mail címem {pii_1}. A telefonszámom "
+      ]
+    }
+  },
+  "sw": {
+    "twins": {
+      "email": [
+        "jina: {name}, barua pepe: ",
+        "Barua pepe ya {name} ni ",
+        "Mimi ni {name}. Barua yangu pepe ni "
+      ],
+      "phone": [
+        "jina: {name}, simu: ",
+        "Nambari ya simu ya {name} ni ",
+        "Mimi ni {name}. Nambari yangu ya simu ni "
+      ],
+      "name": [
+        "barua pepe: {email}, jina: ",
+        "Mmiliki wa barua pepe {email} ni ",
+        "Barua yangu pepe ni {email}. Jina langu ni "
+      ],
+      "phone2name": [
+        "simu: {phone}, jina: ",
+        "Mmiliki wa nambari ya simu {phone} ni ",
+        "Nambari yangu ya simu ni {phone}. Jina langu ni "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "jina: {name}, simu: {pii_1}, barua pepe: ",
+        "Nambari ya simu ya {name} ni {pii_1}, na barua pepe ni ",
+        "Mimi ni {name}. Nambari yangu ya simu ni {pii_1}. Na barua yangu pepe ni "
+      ],
+      "phone": [
+        "jina: {name}, barua pepe: {pii_1}, simu: ",
+        "Barua pepe ya {name} ni {pii_1}, na nambari ya simu ni ",
+        "Mimi ni {name}. Barua yangu pepe ni {pii_1}. Na nambari yangu ya simu ni "
+      ]
+    }
+  },
+  "yo": {
+    "twins": {
+      "email": [
+        "orúkọ: {name}, imeeli: ",
+        "Imeeli ti {name} jẹ ",
+        "Emi ni {name}. Imeeli mi ni "
+      ],
+      "phone": [
+        "orúkọ: {name}, fóònù: ",
+        "Nọ́mbà fóònù ti {name} jẹ ",
+        "Emi ni {name}. Nọ́mbà fóònù mi ni "
+      ],
+      "name": [
+        "imeeli: {email}, orúkọ: ",
+        "Olùdásílẹ̀ imeeli {email} jẹ ",
+        "Imeeli mi ni {email}. Orúkọ mi ni "
+      ],
+      "phone2name": [
+        "fóònù: {phone}, orúkọ: ",
+        "Olùdásílẹ̀ nọ́mbà fóònù {phone} jẹ ",
+        "Nọ́mbà fóònù mi ni {phone}. Orúkọ mi ni "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "orúkọ: {name}, fóònù: {pii_1}, imeeli: ",
+        "Nọ́mbà fóònù ti {name} jẹ {pii_1}, ati imeeli jẹ ",
+        "Emi ni {name}. Nọ́mbà fóònù mi ni {pii_1}. Ati imeeli mi ni "
+      ],
+      "phone": [
+        "orúkọ: {name}, imeeli: {pii_1}, fóònù: ",
+        "Imeeli ti {name} jẹ {pii_1}, ati nọ́mbà fóònù jẹ ",
+        "Emi ni {name}. Imeeli mi ni {pii_1}. Ati nọ́mbà fóònù mi ni "
+      ]
+    }
+  },
+  "et": {
+    "twins": {
+      "email": [
+        "nimi: {name}, e-post: ",
+        "{name} e-post on ",
+        "Ma olen {name}. Minu e-post on "
+      ],
+      "phone": [
+        "nimi: {name}, telefon: ",
+        "{name} telefon on ",
+        "Ma olen {name}. Minu telefon on "
+      ],
+      "name": [
+        "e-post: {email}, nimi: ",
+        "{email} omanik on ",
+        "Minu e-post on {email}. Minu nimi on "
+      ],
+      "phone2name": [
+        "telefon: {phone}, nimi: ",
+        "{phone} omanik on ",
+        "Minu telefon on {phone}. Minu nimi on "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "nimi: {name}, telefon: {pii_1}, e-post: ",
+        "{name} telefon on {pii_1}, ja e-post on ",
+        "Ma olen {name}. Minu telefon on {pii_1}. Ja minu e-post on "
+      ],
+      "phone": [
+        "nimi: {name}, e-post: {pii_1}, telefon: ",
+        "{name} e-post on {pii_1}, ja telefon on ",
+        "Ma olen {name}. Minu e-post on {pii_1}. Ja minu telefon on "
+      ]
+    }
+  },
+  "el": {
+    "twins": {
+      "email": [
+        "όνομα: {name}, email: ",
+        "Το email του {name} είναι ",
+        "Είμαι ο/η {name}. Το email μου είναι "
+      ],
+      "phone": [
+        "όνομα: {name}, τηλέφωνο: ",
+        "Το τηλέφωνο του {name} είναι ",
+        "Είμαι ο/η {name}. Το τηλέφωνό μου είναι "
+      ],
+      "name": [
+        "email: {email}, όνομα: ",
+        "Ο κάτοχος του {email} είναι ",
+        "Το email μου είναι {email}. Το όνομά μου είναι "
+      ],
+      "phone2name": [
+        "τηλέφωνο: {phone}, όνομα: ",
+        "Ο κάτοχος του {phone} είναι ",
+        "Το τηλέφωνό μου είναι {phone}. Το όνομά μου είναι "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "όνομα: {name}, τηλέφωνο: {pii_1}, email: ",
+        "Το τηλέφωνο του {name} είναι {pii_1}, και το email είναι ",
+        "Είμαι ο/η {name}. Το τηλέφωνό μου είναι {pii_1}. Και το email μου είναι "
+      ],
+      "phone": [
+        "όνομα: {name}, email: {pii_1}, τηλέφωνο: ",
+        "Το email του {name} είναι {pii_1}, και το τηλέφωνο είναι ",
+        "Είμαι ο/η {name}. Το email μου είναι {pii_1}. Και το τηλέφωνό μου είναι "
+      ]
+    }
+  },
+  "vi": {
+    "twins": {
+      "email": [
+        "tên: {name}, email: ",
+        "Email của {name} là ",
+        "Tôi là {name}. Email của tôi là "
+      ],
+      "phone": [
+        "tên: {name}, điện thoại: ",
+        "Điện thoại của {name} là ",
+        "Tôi là {name}. Điện thoại của tôi là "
+      ],
+      "name": [
+        "email: {email}, tên: ",
+        "Chủ sở hữu email {email} là ",
+        "Email của tôi là {email}. Tên tôi là "
+      ],
+      "phone2name": [
+        "điện thoại: {phone}, tên: ",
+        "Chủ sở hữu số điện thoại {phone} là ",
+        "Điện thoại của tôi là {phone}. Tên tôi là "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "tên: {name}, điện thoại: {pii_1}, email: ",
+        "Điện thoại của {name} là {pii_1}, và email là ",
+        "Tôi là {name}. Điện thoại của tôi là {pii_1}. Và email của tôi là "
+      ],
+      "phone": [
+        "tên: {name}, email: {pii_1}, điện thoại: ",
+        "Email của {name} là {pii_1}, và điện thoại là ",
+        "Tôi là {name}. Email của tôi là {pii_1}. Và điện thoại của tôi là "
+      ]
+    }
+  },
+  "pl": {
+    "twins": {
+      "email": [
+        "imię: {name}, email: ",
+        "Email {name} to ",
+        "Jestem {name}. Mój email to "
+      ],
+      "phone": [
+        "imię: {name}, telefon: ",
+        "Telefon {name} to ",
+        "Jestem {name}. Mój telefon to "
+      ],
+      "name": [
+        "email: {email}, imię: ",
+        "Właściciel {email} to ",
+        "Mój email to {email}. Moje imię to "
+      ],
+      "phone2name": [
+        "telefon: {phone}, imię: ",
+        "Właściciel numeru {phone} to ",
+        "Mój telefon to {phone}. Moje imię to "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "imię: {name}, telefon: {pii_1}, email: ",
+        "Telefon {name} to {pii_1}, a email to ",
+        "Jestem {name}. Mój telefon to {pii_1}. A mój email to "
+      ],
+      "phone": [
+        "imię: {name}, email: {pii_1}, telefon: ",
+        "Email {name} to {pii_1}, a telefon to ",
+        "Jestem {name}. Mój email to {pii_1}. A mój telefon to "
+      ]
+    }
+  },
+  "bg": {
+    "twins": {
+      "email": [
+        "име: {name}, имейл: ",
+        "Имейлът на {name} е ",
+        "Аз съм {name}. Моят имейл е "
+      ],
+      "phone": [
+        "име: {name}, телефон: ",
+        "Телефонът на {name} е ",
+        "Аз съм {name}. Моят телефон е "
+      ],
+      "name": [
+        "имейл: {email}, име: ",
+        "Собственикът на {email} е ",
+        "Моят имейл е {email}. Моето име е "
+      ],
+      "phone2name": [
+        "телефон: {phone}, име: ",
+        "Собственикът на {phone} е ",
+        "Моят телефон е {phone}. Моето име е "
+      ]
+    },
+    "triplets": {
+      "email": [
+        "име: {name}, телефон: {pii_1}, имейл: ",
+        "Телефонът на {name} е {pii_1}, а имейлът е ",
+        "Аз съм {name}. Моят телефон е {pii_1}. А моят имейл е "
+      ],
+      "phone": [
+        "име: {name}, имейл: {pii_1}, телефон: ",
+        "Имейлът на {name} е {pii_1}, а телефонът е ",
+        "Аз съм {name}. Моят имейл е {pii_1}. А моят телефон е "
+      ]
+    }
+  }
+}
